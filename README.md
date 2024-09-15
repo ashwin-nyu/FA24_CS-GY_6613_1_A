@@ -12,7 +12,7 @@ Dev Environnment : 5 points
 Simulation of gaussian random variables : 5 points
 KMeans : 20 points
 PCA : 20 points
-Development Environment Setup
+#Development Environment Setup
 Following the instructions of the course site with respect to the course docker container
 
 Install docker on your machine.
@@ -38,7 +38,7 @@ B: mean
 Plot them in the same plot and stack them into a single tensor X as if it is generated from a single distribution.
 
 Source: Simulation of Multivariate Normal Distribution
-K-Means Clustering
+# K-Means Clustering
 Using the steps outlined in this video, implement K-means clustering using Pytorch pytorch.xyz libraries, for the unsupervised dataset created from the stacked 
  data points of the two bivariate Gaussian distributions below:
 
@@ -49,8 +49,13 @@ A: mean
 
 B: mean 
  and covariance matrix  
- 
-.
+
+
+
+#Projection with Principal Components Analysis (PCA)
+Using the synthetic dataset outlined in the video, replicate the steps using pytorch.xyz namespaced libraries to perform PCA on the dataset.
+
+
 
 
 Source: K-Means Clustering
