@@ -12,7 +12,7 @@ Dev Environnment : 5 points
 Simulation of gaussian random variables : 5 points
 KMeans : 20 points
 PCA : 20 points
-#Development Environment Setup
+# Development Environment Setup
 Following the instructions of the course site with respect to the course docker container
 
 Install docker on your machine.
@@ -21,7 +21,7 @@ Build and launch the docker container inside your desired IDE (if you havent use
 Launch the virtual environment with rye sync inside the container and then show a screenshot of your IDE and the terminal with the (your virtual env) prefix.
 Select the kernel of your virtual environment (.venv folder) and execute the following code. Save the output of all cells of this notebook before submitting.
 Source: Development Environment Setup
-Simulation of Multivariate Normal Distribution
+# Simulation of Multivariate Normal Distribution
 Generate 
  samples from each of the two Bivariate Normal distributions.
 
@@ -52,7 +52,7 @@ B: mean
 
 
 
-#Projection with Principal Components Analysis (PCA)
+# Projection with Principal Components Analysis (PCA)
 Using the synthetic dataset outlined in the video, replicate the steps using pytorch.xyz namespaced libraries to perform PCA on the dataset.
 
 
